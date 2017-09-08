@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#041827</color>
+    <color name="colorPrimaryDark">#041827</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="Tool_Bar_color">#CC041827</color>
+    <color name="list_color">#E6041827</color>
+    <color name="Main">#041827</color>
+    <color name="Bottom">#F03446</color>
+
+    <color name="recycler_bg">#4D041827</color>
+</resources>
